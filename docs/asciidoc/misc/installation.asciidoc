@@ -50,6 +50,13 @@ greater):
 . `wget https://pypi.python.org/packages/source/c/click/click-6.2.tar.gz -O click-6.3.tar.gz`
 . `pip install click-6.3.tar.gz`
 
+&nbsp;
+
+On SLES 11: Download and install the unittest2 dependency (0.5.1 or
+greater):
+
+. `wget http://voidspace.org.uk/downloads/unittest2-0.5.1-python2.3.zip`
+. `pip install unittest2-0.5.1-python2.3.zip`
 
 &nbsp;
 
